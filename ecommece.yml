@@ -1,6 +1,0 @@
-token:
-  expiration_time: 86400000
-  secret: user_token_dkfma642_lengh22334_test
-  
-gateway:
-  ip: 192.168.219.111
